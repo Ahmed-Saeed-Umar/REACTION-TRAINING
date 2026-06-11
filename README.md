@@ -70,10 +70,9 @@ Feel free to fork the repository, open issues, or submit pull requests.
    
 ---
 
-👤 Author
+👤 Authors
 
-Ahmed Saeed Umar
-
-GitHub: https://github.com/Ahmed-Saeed-Umar
-
-LinkedIn: https://www.linkedin.com/in/ahmed-saeed-umar/
+| Author            | GitHub                                   | LinkedIn                                      |
+|-------------------|------------------------------------------|-----------------------------------------------|
+| Yusra Fatah       | https://github.com/yusrafatah            | https://linkedin.com/in/yusra-fatah-348089309 |
+| Ahmed Saeed Umar  | https://github.com/Ahmed-Saeed-Umar      | https://linkedin.com/in/ahmed-saeed-umar      |
